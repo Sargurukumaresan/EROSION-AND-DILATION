@@ -37,7 +37,7 @@ import numpy as np
 
 img= np.zeros((350,1400),dtype ='uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img,'THALAPATHY',(15,200),font,5,(255),10,cv2.LINE_AA)
+cv2.putText(img,'SARGURU.K',(15,200),font,5,(255),10,cv2.LINE_AA)
 cv2.imshow('created_text',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -81,21 +81,22 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/e5703e5a-27dd-458c-aadf-f50f71808a19)
+![WhatsApp Image 2023-11-07 at 14 15 26_6df50007](https://github.com/Sargurukumaresan/EROSION-AND-DILATION/assets/119559840/c94dfacc-9a2c-4532-b57a-b103e3179ea6)
+
 
 
 
 ### Display the Eroded Image
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/3dd5ded5-2105-416f-bbbc-9dd54f0af116)
 
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/794c1709-12ca-45bd-b651-bfda53d4a6e2)
+![WhatsApp Image 2023-11-07 at 14 15 26_35cacc96](https://github.com/Sargurukumaresan/EROSION-AND-DILATION/assets/119559840/487bdc05-fc8f-417b-b8b3-9dfc831b54e7)
+
 
 
 ### Display the Dilated Image
+![WhatsApp Image 2023-11-07 at 14 15 26_be1eab75](https://github.com/Sargurukumaresan/EROSION-AND-DILATION/assets/119559840/5f73f030-8e0c-49c7-a7db-c96809b4128f)
 
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/10dd4283-9943-4b71-b5d2-5e61e8ca11ae)
 
-![image](https://github.com/PERARASU10/EROSION-AND-DILATION/assets/118348589/b97d3589-9eb1-4d5e-8ca7-e446c7cbf7db)
+
 
 
 ## Result
